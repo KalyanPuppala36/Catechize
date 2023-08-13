@@ -27,8 +27,8 @@ I'm immensely proud of my achievement in crafting this comprehensive program. Wi
 <h4>In Closing</h4>
 Thank you for taking a guided tour through my Catechize project. By creating an interactive quiz experience and honing my coding abilities, I've developed a program that entertains, educates, and highlights my passion for coding.
 
-<br \>
-<br \>
+<br >
+<br >
 
 I Hope you haven't got the impression like
 
