@@ -1,14 +1,14 @@
 # Project: Catechize - An Interactive Quiz Program in C
 
- <h4>Welcome to Catechize! 😊</h4>
+ <h2>Welcome to Catechize! 😊</h2>
 
 Introducing Catechize, a captivating quiz program I've crafted entirely on my own. With over 3,370 lines of code that I personally wrote using the Vim editor in the Ubuntu terminal, I'm thrilled to showcase my achievement. (Copy & paste is not allowed in Vim, ubuntu)
 
-<h4>Exploring Catechize</h4>
+<h3>Exploring Catechize</h3>
 
 <image src="https://cdn.pixabay.com/animation/2022/07/31/20/41/20-41-56-968_512.gif" width="300px">
 
-<h4>Let's dive into the world of Catechize and its exciting features:</h4>
+<h3>Let's dive into the world of Catechize and its exciting features:</h3>
 
 1. Personalization: The journey kicks off with a friendly welcome, prompting users to provide their names for a personalized touch.
 
@@ -24,8 +24,12 @@ As the quiz journey concludes, Catechize offers you a choice: embark on the quiz
 
 I'm immensely proud of my achievement in crafting this comprehensive program. With 3,370 lines of code, I built Catechize from scratch, showcasing my dedication and coding skills.
 
-<h5>In Closing</h5>
+<h4>In Closing</h4>
 Thank you for taking a guided tour through my Catechize project. By creating an interactive quiz experience and honing my coding abilities, I've developed a program that entertains, educates, and highlights my passion for coding.
 
+<br >
+<br >
+
 I Hope you haven't got the impression like
+
 <image src="https://1.bp.blogspot.com/-92ivWo7A0Mc/XyXzTXLgGkI/AAAAAAAAcb4/zLVqTxur4bQBi60W8hZF4L4VMFoYcWIdQCLcBGAsYHQ/s1600/ezgif.com-add-text.gif">
